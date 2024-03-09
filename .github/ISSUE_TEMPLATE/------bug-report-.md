@@ -27,6 +27,7 @@ assignees: ''
 - OS: [e.g. CentOS8]
 - PHP version [e.g. PHP 7.4.11]
 - MySQL version [e.g. MySQL 8.0.21]
+- F-revo version [e.g. F-revo 7.4.0]
 
 **不具合発生時の利用ブラウザ Blowser(please complete the following information):**
 - OS: [e.g. Windows10]
